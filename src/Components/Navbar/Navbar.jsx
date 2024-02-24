@@ -15,8 +15,7 @@ const Navbar = () => {
                             <li><a>Item 3</a></li>
                         </ul>
                     </div>
-                    {/* <a className="btn btn-ghost text-xl">daisyUI</a> */}
-                    <img src={logo} alt="" className='w-20' />
+                    <img src={logo} alt="ipl-group" className='w-20' />
                 </div>
                 <div className="navbar-center hidden lg:flex text-white z-30">
                     <ul className="menu menu-horizontal  text-lg">
