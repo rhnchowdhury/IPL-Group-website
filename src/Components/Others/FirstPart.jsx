@@ -5,7 +5,11 @@ const FirstPart = () => {
         <div>
             <div className="hero min-h-screen bg-[#E8E4D8]">
                 <div className="hero-content mx-20 flex-col lg:flex-row-reverse">
-                    <img src={img} className="max-w-sm rounded-lg shadow-2xl" />
+                    <div>
+                        <img src={img} className="max-w-sm rounded-lg shadow-2xl" />
+                        <h1 className='font-bold text-lg text-center mt-4'>MD AL MANSUR RAHMAN</h1>
+                        <h1 className='font-bold text-md text-center'>Founder & Chairman</h1>
+                    </div>
                     <div>
                         <h1 className=" font-medium">We&apos;re awessome</h1>
                         <p className='font-bold text-xl'>What We Are Done Good</p>
