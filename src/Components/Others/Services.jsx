@@ -1,13 +1,13 @@
 import img1 from '../../assets/KHUKUMONE PNG.png';
-import img2 from '../../assets/IPL logo.jpeg';
-import img3 from '../../assets/multy.png';
+import img2 from '../../assets/ipl.png';
+import img3 from '../../assets/multi.png';
 
 const Services = () => {
     return (
         <div className='px-8 py-10 bg-[#F1EFF5]'>
             <h1 className="text-3xl font-bold py-4 text-center">Our Services</h1>
             <h1 className="text-center">We understand the importance of approaching each work integrally and believe in<br />  the power of simple and easy communication.</h1>
-            <div className='mt-8 grid grid-cols-3 gap-5'>
+            <div className='mt-8 grid lg:grid-cols-3 grid-cols-1 gap-5'>
                 <div className='border-2 '>
                     <div className='flex justify-center items-center '>
                         <img src={img1} alt="" className='w-32' />
@@ -19,7 +19,7 @@ const Services = () => {
                 </div>
                 <div className='border-2'>
                     <div className='flex justify-center items-center'>
-                        <img src={img2} alt="" className='w-32' />
+                        <img src={img2} alt="" className='w-32 mt-8' />
                     </div>
                     <div className='mx-2'>
                         <h1 className='text-center font-bold'>IPL Immigration Expert</h1>
@@ -28,7 +28,7 @@ const Services = () => {
                 </div>
                 <div className='border-2'>
                     <div className='flex justify-center items-center'>
-                        <img src={img3} alt="" className='w-32' />
+                        <img src={img3} alt="" className='w-32 mt-6' />
                     </div>
                     <div className='mx-2'>
                         <h1 className='text-center font-bold'>Multi Wash Powder</h1>
