@@ -1,7 +1,7 @@
 
 const Works = () => {
     return (
-        <div className="mx-8 mt-5">
+        <div className="px-8 bg-[#E8E4D8] py-12">
             <h1 className="text-3xl font-bold py-4 text-center">Our Works</h1>
             <h1 className="text-center">Work is what we make it to be. We all have similar work to do. Yet it is the attitude <br /> with which one works that makes the difference to it.</h1>
 

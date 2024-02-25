@@ -4,11 +4,11 @@ import img3 from '../../assets/multy.png';
 
 const Services = () => {
     return (
-        <div className='mx-8 mt-5'>
+        <div className='px-8 py-10 bg-[#F1EFF5]'>
             <h1 className="text-3xl font-bold py-4 text-center">Our Services</h1>
             <h1 className="text-center">We understand the importance of approaching each work integrally and believe in<br />  the power of simple and easy communication.</h1>
             <div className='mt-8 grid grid-cols-3 gap-5'>
-                <div className='border '>
+                <div className='border-2 '>
                     <div className='flex justify-center items-center '>
                         <img src={img1} alt="" className='w-32' />
                     </div>
@@ -17,7 +17,7 @@ const Services = () => {
                         <p className='text-center'>Khukumoni Foundation is empower unprivileged children and youth societies.</p>
                     </div>
                 </div>
-                <div className='border'>
+                <div className='border-2'>
                     <div className='flex justify-center items-center'>
                         <img src={img2} alt="" className='w-32' />
                     </div>
@@ -26,7 +26,7 @@ const Services = () => {
                         <p className='text-center'>Processing immigration and work files by experienced immigration experts and own lawyers in short time.</p>
                     </div>
                 </div>
-                <div className='border'>
+                <div className='border-2'>
                     <div className='flex justify-center items-center'>
                         <img src={img3} alt="" className='w-32' />
                     </div>
