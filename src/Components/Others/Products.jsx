@@ -22,65 +22,34 @@ const Products = () => {
                     <div className='card-actions justify-center items-center'>
                         <img src={img2} alt="" className=' w-28 h-44' />
                     </div>
-                    <div>
-                        <h1 className='text-center'>Test Group</h1>
+                    <div className='text-center font-bold py-2'>
+                        <h1 className='text-center'>Synthetic Powder</h1>
                     </div>
                 </div>
                 <div className='border-2 rounded-xl shadow-xl'>
                     <div className='card-actions justify-center items-center'>
                         <img src={img3} alt="" className=' w-28 h-44' />
                     </div>
-                    <div>
-                        <h1>Test Group</h1>
+                    <div className='text-center font-bold py-2'>
+                        <h1>Dish Wash Powder</h1>
                     </div>
                 </div>
                 <div className='border-2 rounded-xl shadow-xl'>
                     <div className='card-actions justify-center items-center'>
                         <img src={img4} alt="" className='w-28 h-44' />
                     </div>
-                    <div>
-                        <h1>Test Group</h1>
+                    <div className='text-center font-bold py-2'>
+                        <h1>Hand Wash Liquid</h1>
                     </div>
                 </div>
                 <div className='border-2 rounded-xl shadow-xl'>
                     <div className='card-actions justify-center items-center'>
                         <img src={img5} alt="" className='w-28 h-44' />
                     </div>
-                    <div>
-                        <h1>Test Group</h1>
+                    <div className='text-center font-bold py-2'>
+                        <h1>Detergent Powder</h1>
                     </div>
                 </div>
-                {/* <div className="card w-60 glass ">
-                    <figure className='mt-2 '><img src={img1} alt="" className='w-24 bg-red-300 h-28' />
-                    </figure>
-                    <div className="card-body">
-                        <h2 className="card-title"></h2>
-                    </div>
-                </div>
-                <div className="card w-60 glass ">
-                    <figure className='mt-2'><img src={img2} alt="" className='w-24 bg-red-300 h-28' /></figure>
-                    <div className="card-body ">
-                        <h2 className="card-title">Synthetic Powder</h2>
-                    </div>
-                </div>
-                <div className="card w-60 glass ">
-                    <figure className='mt-2'><img src={img3} alt="" className='w-16' /></figure>
-                    <div className="card-body">
-                        <h2 className="card-title">Dish Wash Powder</h2>
-                    </div>
-                </div>
-                <div className="card w-60 glass ">
-                    <figure className='mt-2'><img src={img4} alt="" className='w-24' /></figure>
-                    <div className="card-body">
-                        <h2 className="card-title">Hand Wash Liquid</h2>
-                    </div>
-                </div>
-                <div className="card w-60 glass ">
-                    <figure className='mt-2'><img src={img5} alt="" className='w-20' /></figure>
-                    <div className="card-body">
-                        <h2 className="card-title">Detergent Powder</h2>
-                    </div>
-                </div> */}
             </div>
         </div>
     );
