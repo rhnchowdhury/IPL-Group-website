@@ -5,7 +5,7 @@ const Works = () => {
             <h1 className="text-3xl font-bold py-4 text-center">Our Works</h1>
             <h1 className="text-center">Work is what we make it to be. We all have similar work to do. Yet it is the attitude <br /> with which one works that makes the difference to it.</h1>
 
-            <div className="grid lg:grid-cols-5 grid-cols-1 gap-4 mt-12 test">
+            <div className="grid lg:grid-cols-5 grid-cols-1 gap-4 mt-12">
                 <div className="radial-progress" style={{ "--value": "90", "--size": "12rem", "--thickness": "2px" }} role="progressbar"><p className="text-center">90%</p>
                     <h1>South Korea</h1>
                 </div>
