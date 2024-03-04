@@ -45,7 +45,7 @@ const Navbar = () => {
                 <div className="hero-content text-center text-neutral-content">
                     <div className="max-w-md mt-40 ">
                         <h1 className="mb-5 text-4xl font-bold">IPL Group Is Just What Your Business Needs</h1>
-                        <p className="mb-5">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+                        <p className="mb-5 ">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <button className="btn"> Lets Get Started</button>
                     </div>
                 </div>
