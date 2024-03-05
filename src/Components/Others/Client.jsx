@@ -9,11 +9,11 @@ const Client = () => {
                     <div className="radial-progress bg-black text-black border-4" ></div>
                     <p className="font-medium">Quick service, trustworthy & faithful.</p>
                     <div className="rating ">
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
                     </div>
                 </div>
                 <div className="card-actions justify-center items-center">
@@ -22,11 +22,11 @@ const Client = () => {
                         <p className="font-medium">Keep things very friendly and courteous.</p>
                     </div>
                     <div className="rating">
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
                     </div>
                 </div>
                 <div className="card-actions justify-center items-center">
@@ -35,11 +35,11 @@ const Client = () => {
                         <p className="font-medium">Highly Recommended for their support.</p>
                     </div>
                     <div className="rating">
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
+                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-[#F01E27]" />
                     </div>
                 </div>
             </div>

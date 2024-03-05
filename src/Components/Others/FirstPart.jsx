@@ -14,7 +14,7 @@ const FirstPart = () => {
                         <h1 className=" font-medium">We&apos;re awessome</h1>
                         <p className='font-bold text-xl'>What We Are Done Good</p>
                         <p className="py-6 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid repudiandae earum quo odio minus atque corporis? Placeat porro eaque dicta, nam ea distinctio enim nostrum ex atque sint <br /> <br />saepe iusto quae? Asperiores sunt aspernatur, odio dolorem possimus excepturi vero sapiente mollitia fuga obcaecati laborum quam omnis repudiandae ea iure perferendis.</p>
-                        <button className="btn">Get Started</button>
+                        <button className="btn bg-[#F01E27] border-red-500 text-white hover:bg-black hover:border-black">Get Started</button>
                     </div>
                 </div>
             </div>

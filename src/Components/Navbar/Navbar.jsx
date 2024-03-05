@@ -35,7 +35,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn z-30  lg:flex hidden">Get Started</a>
+                    <a className="btn z-30  lg:flex hidden bg-[#F01E27] border-red-500 text-white hover:bg-black hover:border-black">Get Started</a>
                     <img src={logo} alt="ipl-group" className='w-20 z-40 flex lg:hidden' />
                 </div>
             </div>
@@ -46,7 +46,7 @@ const Navbar = () => {
                     <div className="max-w-md mt-40 ">
                         <h1 className="mb-5 text-4xl font-bold">IPL Group Is Just What Your Business Needs</h1>
                         <p className="mb-5 ">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
-                        <button className="btn"> Lets Get Started</button>
+                        <button className="btn  bg-[#F01E27] border-red-500 text-white hover:bg-black hover:border-black"> Lets Get Started</button>
                     </div>
                 </div>
             </div>
