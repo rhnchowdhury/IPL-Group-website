@@ -7,6 +7,7 @@ import Footer from "./Components/Others/Footer"
 import Products from "./Components/Others/Products"
 import Client from "./Components/Others/Client"
 import SecondPart from "./Components/Others/SecondPart"
+import Mission from "./Components/Others/Mission"
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Navbar></Navbar>
       <FirstPart></FirstPart>
       <SecondPart></SecondPart>
+      <Mission></Mission>
       <Services></Services>
       <Works></Works>
       <Products></Products>

@@ -1,4 +1,4 @@
-import img1 from '../../assets/tt.png';
+import img1 from '../../assets/jawad.png';
 
 const SecondPart = () => {
     return (
