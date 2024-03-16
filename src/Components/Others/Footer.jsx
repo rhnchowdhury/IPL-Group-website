@@ -1,11 +1,11 @@
-import logo from '../../assets/ipl-grp.jpg'
+import logo from '../../assets/IDEA.jpg'
 const Footer = () => {
     return (
         <div>
             <footer className="footer p-10 bg-black text-white">
                 <aside>
-                    <img src={logo} alt="" className='w-20' />
-                    <p>IPL Group Ltd.<br />Providing reliable things since 2024</p>
+                    <img src={logo} alt="" className='w-24 h-16' />
+                    <p>IDEA Group Ltd.<br />Providing reliable things since 2024</p>
                 </aside>
                 <nav>
                     <h6 className="footer-title">Services</h6>

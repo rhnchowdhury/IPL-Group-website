@@ -1,4 +1,4 @@
-import logo from '../../assets/ipl-grp.jpg';
+import logo from '../../assets/IDEA.jpg';
 
 const Navbar = () => {
     return (
@@ -20,7 +20,7 @@ const Navbar = () => {
                             <li><a>Team</a></li>
                         </ul>
                     </div>
-                    <img src={logo} alt="ipl-group" className='w-20 lg:flex hidden' />
+                    <img src={logo} alt="ipl-group" className='w-32 lg:flex hidden' />
                 </div>
                 <div className="navbar-center hidden lg:flex text-white z-30">
                     <ul className="menu menu-horizontal  text-lg">
@@ -44,7 +44,7 @@ const Navbar = () => {
                 <div className="hero-overlay bg-opacity-80"></div>
                 <div className="hero-content text-center text-neutral-content">
                     <div className="max-w-md mt-40 ">
-                        <h1 className="mb-5 text-4xl font-bold">IPL Group Is Just What Your Business Needs</h1>
+                        <h1 className="mb-5 text-4xl font-bold">IDEA Group Is Just What Your Business Needs</h1>
                         <p className="mb-5 ">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <button className="btn  bg-[#F01E27] border-red-500 text-white hover:bg-black hover:border-black"> Lets Get Started</button>
                     </div>
